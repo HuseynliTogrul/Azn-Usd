@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\bin\Debug\net6.0\Azn-Usd.exe
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\bin\Debug\net6.0\Azn-Usd.deps.json
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\bin\Debug\net6.0\Azn-Usd.runtimeconfig.json
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\bin\Debug\net6.0\Azn-Usd.dll
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\bin\Debug\net6.0\Azn-Usd.pdb
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.AssemblyInfo.cs
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.dll
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\refint\Azn-Usd.dll
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.pdb
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\Azn-Usd.genruntimeconfig.cache
+C:\Users\acer\Desktop\Azn-Usd\Azn-Usd\obj\Debug\net6.0\ref\Azn-Usd.dll
